@@ -1,6 +1,7 @@
 *{
 scroll-behavior: smooth;
 padding: 00;
+margin: 00;
 }
 section h3{
     color: #1a53ff;
@@ -28,7 +29,6 @@ width: 100%;
 display: flex;
 font-size: 23px;
 padding-left: 10px;
-margin-top: -1%;
 z-index: 999;
 justify-content: space-between;
 
