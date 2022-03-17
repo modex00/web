@@ -1,0 +1,32 @@
+*{
+    padding: 10 00;
+    margin: 00;
+}
+.navigion{
+    list-style: none;
+ background-color:#66b3ff ;
+ position: fixed;
+ width: 100%;
+ display: flex;
+ font-size: 23px;
+ padding-left: 10px;
+ margin-right: 59px;
+ z-index: 999;
+ justify-content: space-between;
+ }
+ .reprod h1{
+     color: #ff8c1a;
+    padding-top: 50px;
+    background-color: blanchedalmond;
+ }
+ .reprod p{
+     font-size: large;
+     padding: 10px 00px;
+ }
+ .reprod h2{
+     padding: 10 00;
+     background-color: #ff8c1a;
+ }
+ video {
+     width: 100%;
+ }
