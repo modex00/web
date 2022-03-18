@@ -1,4 +1,35 @@
-*{
+{
    padding-top:10px ;
     margin: 00 00;
+}
+.navigion{
+    list-style: none;
+ background-color:#66b3ff ;
+ position: fixed;
+ width: 100%;
+ display: flex;
+ font-size: 23px;
+ padding-left: 10px;
+ margin-top: -2%;
+ z-index: 999;
+ justify-content: space-between;
+ 
+ }
+.immuntiy{
+    background-color: #b36b00;
+}
+.immuntiy h1{
+    color:red;
+}
+.vidim{
+    width: 100%;
+}
+.p p{
+    font-size: large;
+    color: #330014;
+   border: #ff00ff solid 5px;
+   margin: 10px;
+}
+.p ::after{
+color: #b36b00;
 }
